@@ -53,9 +53,9 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-![markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 ![vscode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
-![jscription](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+![github](https://img.shields.io/github/commits-since/{dpprdgls}/{Generate-Password}/{v0.1}.svg)
 
 
 
