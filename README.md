@@ -54,8 +54,8 @@ SOFTWARE.
 
 
 ![vscode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+![gitcommit](https://img.shields.io/github/commits-since/{username}/{repo-name}/{version}.svg)
 
-![github](https://img.shields.io/github/commits-since/{dpprdgls}/{Generate-Password}/{v0.1}.svg)
 
 
 
