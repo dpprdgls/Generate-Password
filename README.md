@@ -1,9 +1,9 @@
-# <Horiseon Refactor Challenge>
+# <Password Generator Challenge>
 
 ## Description
 
 
-This project was built to help a marketing agency's website follow accessibility standards and implement search engine optimizations. This was accomplished by changing the source code to include semantic HTML elements. These HTML elements were restructured to follow a logical structure which was independent of styling and positioning. When viewing the icon and image elements, you will now find accissible alt attributes. The heading attributes of this page also fall in sequential order. The title element has also been updated to include a descriptive title of the website. 
+This project was built to demonstrate my ability to create a password generator that meets the requirements of a company's desire by using user selected criteria to generate a password using javascript. 
 
 
 ## Usage
@@ -13,7 +13,7 @@ Download the project files and use an IDE to open the project folder. Preview th
 
 or visit the link below:
 
-https://dpprdgls.github.io/Horiseon-Refactor-Challenge/
+https://dpprdgls.github.io/Generate-Password/
 
 ![website usage](./assets/images/website_usage.png)
 
@@ -21,9 +21,11 @@ https://dpprdgls.github.io/Horiseon-Refactor-Challenge/
 ## Credits
 
 
-This project was completed in collaboration with Madison Eckstrom. 
+This project was completed with the help of the Web Dev Simplified Youtube video tutorial "Build a Password Generator With JavaScript" available for viewing at the link below.
 
-https://github.com/maddieeckstrom/
+https://www.youtube.com/watch?v=iKo9pDKKHnc&ab_channel=WebDevSimplified
+
+
 
 
 ## License
@@ -53,6 +55,7 @@ SOFTWARE.
 
 ![markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 ![vscode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
+![jscription](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 
 
