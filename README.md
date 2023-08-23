@@ -54,7 +54,6 @@ SOFTWARE.
 
 
 ![vscode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)
-![gitcommit](https://img.shields.io/github/commits-since/{username}/{repo-name}/{version}.svg)
 
 
 
