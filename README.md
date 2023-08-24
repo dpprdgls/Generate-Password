@@ -15,7 +15,7 @@ or visit the link below:
 
 https://dpprdgls.github.io/Generate-Top-Secret-Password/
 
-![website usage](./assets/images/website_usage.png)
+![website usage](./assets/images/topsecret.png)
 
 
 ## Credits
