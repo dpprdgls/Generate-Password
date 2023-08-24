@@ -25,7 +25,9 @@ This project was completed with the help of the Web Dev Simplified Youtube video
 
 https://www.youtube.com/watch?v=iKo9pDKKHnc&ab_channel=WebDevSimplified
 
+This ASCII Character Code Table was also used to help me generate my arrays of characters.
 
+https://www.petefreitag.com/cheatsheets/ascii-codes/
 
 
 ## License
