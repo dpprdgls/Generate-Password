@@ -1,4 +1,4 @@
-# <Password Generator Challenge>
+# <Top Secret Password Generator Challenge>
 
 ## Description
 
