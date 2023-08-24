@@ -13,7 +13,7 @@ Download the project files and use an IDE to open the project folder. Preview th
 
 or visit the link below:
 
-https://dpprdgls.github.io/Generate-Password/
+https://dpprdgls.github.io/Generate-Top-Secret-Password/
 
 ![website usage](./assets/images/website_usage.png)
 

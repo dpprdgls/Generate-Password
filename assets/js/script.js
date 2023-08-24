@@ -1,6 +1,3 @@
-
-
-
 //   ?     @dpprdgls       ?   //
 // ?   ?                 ?   ? //                                                                          
 //   ?   MMMMMMMMMMMMM     ?   //
@@ -31,7 +28,7 @@ let generateBtn = document.querySelector("#generate");
    //arrays for character ascii codes
     const UpperCaseCharCodes = arrayFromLowToHigh(65, 90);
     const LowerCaseCharCodes = arrayFromLowToHigh(97, 122);
-    //the symbol characters have a lot of gaps in their sequences
+    //the symbol characters have a lot of gaps in their sequences and must be concatenated
     const SymbolsCharCodes = arrayFromLowToHigh(33, 47).concat(arrayFromLowToHigh(58, 64)).concat(arrayFromLowToHigh(91, 96)).concat(arrayFromLowToHigh(123, 126));
     const NumberCharCodes = arrayFromLowToHigh(48, 57);
 
